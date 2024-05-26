@@ -2,8 +2,8 @@
 
 1.Analyzing the music playlist database. 
 2.Database and Tools
-**Postgre SQL
-PgAdmin4
+*Postgre SQL
+*PgAdmin4
 
 /* Q1: Who is the senior most employee based on job title? */
 
